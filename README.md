@@ -21,3 +21,7 @@ ISCS Program Renovation Timeline.docx - Supporting document with some identified
 Cyber Operations Designation Requirements.docx - Supporting document with information on the requirements for a degree to be designated as a Center of Academic Excellence Cyber Operations degree.  This information is collected/copied almost exclusively from the NSA.gov website and some supporing information/links from the other degrees that are designated.  This is basis for revising our AAS and the BAS Cybersecurity.
 
 AAS and BAS Degree Plan Restructure for CAE CO Designation.docx - This is the overview stategic plan.  It started as an internal document for us to document our plan that I tried to clean up to share with external entities.  If time permits, I will do a final revision.  If we are forced to submit to for a State Board review, this will be the base document we submit.  
+
+AAS Information Technology Degree Change Summary and Justification.docx - This is a supporting document that is an attempt to identify the proposed changes.  This is a draft, written summary. Paired with AAS IT Degree TSS proposed Fall 2021 with changes highlighed.docx to show where the changes are in the typical student schedule.
+
+AAS IT Degree TSS Proposed Fall 2021 with Changes Highlighted.docs - This is a proposed typical student schedule.  It has hightlights of the classes that are new/different from the current (2019) degree plan/typical student schedule.
