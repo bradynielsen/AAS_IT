@@ -3,10 +3,15 @@ Degree and Course Information for Spokane Falls Community College Applied Associ
 Last revision date 1-19-2021
 
 Current Status of AAS Information Technology degree plan - under development
+
 Successfully Completed - Advisory Board Review
+
 Pending - SFCC Administrative Review (Dean, CGRC preview)
+
 Successfully Completed - Advisory Board Vote
+
 Pending - CGRC Submission
+
 Pending - CGRC Vote
 
 Concerns - Changes proposed could be perceived as 'significant' requiring State Board Approval, this would introduce a potential delay.  The format has changed, but the content is less than 20% (13.333%) so we should be ok.  It is a lot to describe to someone, but not substantially changed.
